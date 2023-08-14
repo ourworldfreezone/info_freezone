@@ -1,4 +1,4 @@
-## Earth Regenerator
+## Digital FreeZone
 
 - [Introduction](intro/intro_readme.md)
 - [FreeZone Features](features/features.md)		
@@ -21,6 +21,10 @@
   - [Global Business Company](products/gbc.md)
   - [Local Business Company](products/lbc.md)
   - [Foundation](products/foundation.md) 
+- [Reserve Now](sales/buy.md)
+  - [About Us](digitaltwin/who_are_we.md)
 - [Follow](contribute/follow.md)
   - [Contribute](contribute/contribute.md)
-
+- [Appendix](extra/extra.md)
+  - [How does it Work](digitaltwin/how_does_it_work.md)
+  

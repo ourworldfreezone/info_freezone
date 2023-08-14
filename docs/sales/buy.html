@@ -1,0 +1,269 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Reserve Now - OurWorld FreeZone</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = null;
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../intro/intro_readme.html">Introduction</a></li><li class="chapter-item "><a href="../features/features.html">FreeZone Features</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../features/1_dispute_resolution.html">dispute resolution</a></li><li class="chapter-item "><a href="../features/2_financial_system.html">financial system</a></li><li class="chapter-item "><a href="../features/3_feature_digital_twin.html">digital twin</a></li><li class="chapter-item "><a href="../features/4_biz_mgmt_tool.html">business mgmt tool</a></li><li class="chapter-item "><a href="../features/5_directory.html">marketplace</a></li><li class="chapter-item "><a href="../features/6_tax_efficiency.html">tax efficiency</a></li><li class="chapter-item "><a href="../features/7_security_token_offerings.html">token offerings</a></li><li class="chapter-item "><a href="../features/8_digital_signatures.html">digital signatures</a></li><li class="chapter-item "><a href="../features/9_contract_mgmt.html">contract mgmt</a></li><li class="chapter-item "><a href="../features/10_legal_dao.html">legal dao</a></li><li class="chapter-item "><a href="../features/11_common_wealth.html">common wealth</a></li><li class="chapter-item "><a href="../features/12_beyond_kyc.html">beyond kyc</a></li><li class="chapter-item "><a href="../features/13_governance.html">governance</a></li></ol></li><li class="chapter-item "><a href="../products/products.html">Products</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../products/guest_company.html">Guest Company</a></li><li class="chapter-item "><a href="../products/personal_company.html">Personal Company</a></li><li class="chapter-item "><a href="../products/gbc.html">Global Business Company</a></li><li class="chapter-item "><a href="../products/lbc.html">Local Business Company</a></li><li class="chapter-item "><a href="../products/foundation.html">Foundation</a></li></ol></li><li class="chapter-item expanded "><a href="../sales/buy.html" class="active">Reserve Now</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../digitaltwin/who_are_we.html">About Us</a></li></ol></li><li class="chapter-item "><a href="../contribute/follow.html">Follow</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../contribute/contribute.html">Contribute</a></li></ol></li><li class="chapter-item "><a href="../extra/extra.html">Appendix</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../digitaltwin/how_does_it_work.html">How does it Work</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">OurWorld FreeZone</h1>
+
+                    <div class="right-buttons">
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p><img src="img/act_now.png" alt="" /></p>
+<h2 id="reserve-your-company-in-freezone"><a class="header" href="#reserve-your-company-in-freezone">Reserve your company in freezone</a></h2>
+<p>Purchasing a company in the Digital Free Zone offers a multitude of unparalleled benefits for businesses and individuals alike. The zone's structure provides various types of digital companies, each tailored to specific needs, allowing for innovative governance and flexible collaboration mechanisms. </p>
+<p>With tax efficiency, robust security measures, support for legalized DAOs, efficient contract management, and access to global markets through the Commonwealth connection, entrepreneurs find a streamlined and cost-effective environment to grow and manage their businesses. Furthermore, the zone’s integration with cutting-edge technology, such as blockchain, AI, and digital signatures, facilitates a transparent and agile business environment, making it an attractive hub for digital nomads, startups, and established corporations looking to optimize their operations and partake in the future of decentralized global commerce.</p>
+<p><strong>How to Reserve Your FreeZone Company:</strong></p>
+<ul>
+<li><strong>Price</strong>: For the first 100,000 FreeZone Companies, the price is set at 1,000 euros.</li>
+<li><strong>Availability</strong>: The opportunity is limited to the first 100,000 individuals.</li>
+<li><strong>Impact</strong>: Say goodbye to digital annoyances and embrace a life of increased free time, productivity, and purpose. </li>
+</ul>
+<p><strong>Why Invest in Your FreeZone Company?</strong></p>
+<p>Owning a FreeZone Company is more than having a digital assistant. It's about being part of a new wave that sets us free from the mundane and empowers us to live our lives more fully. It's a bargain for such superpowers that transform how we interact with the world on legal, collaboration and finance wise.</p>
+<p><strong>Join the Revolution:</strong></p>
+<p>The first 100,000 people to reserve their FreeZone Company will not only gain access to extraordinary finance, legal and digital superpowers but will also become pioneers of a movement that's set to change how we create our future.</p>
+<p>Don't miss this exclusive opportunity to be more productive, efficient, and creative. Reserve your FreeZone Company now and welcome a life where you can do much more, focusing on what's important to you.</p>
+<h2 id="your-personal-unique-benefits"><a class="header" href="#your-personal-unique-benefits">Your personal unique benefits</a></h2>
+<h3 id="your-own-name"><a class="header" href="#your-own-name">Your Own name</a></h3>
+<ul>
+<li><strong>Pick Your Unique Name</strong>: The first 100,000 people to register can choose a name for their digital twin that's under 10 characters. This name will be yours forever, and selecting a name with fewer than 10 characters won't be an option after these initial spots are filled.</li>
+<li><strong>Specialty Names Auction</strong>: Want a name that's even shorter? Names with fewer than 8 characters are considered special and will be auctioned off. You can bid by setting the maximum price you're willing to pay. Plus, if you register early, you'll get priority in the auction. Even if a later bid is 10% higher, your earlier registration time means you'll still have the winning bid.</li>
+</ul>
+<p>These options allow you to personalize your digital twin with a name that has meaning for you and even secure a shorter, more distinctive name through an auction process. It's a one-time opportunity for those who act quickly!</p>
+<h3 id="your-personal-company-in-the-digital-freezone"><a class="header" href="#your-personal-company-in-the-digital-freezone">Your Personal Company in the digital freezone.</a></h3>
+<ul>
+<li><strong>Full Regulatory Powers</strong>: The digital freezone possesses complete control over its legal environment, with the ability to define and enforce its own laws and regulations. This means it can adapt to specific needs and offer an ideal regulatory landscape.</li>
+<li><strong>Internal Dispute Resolution</strong>: Have a dispute? The digital freezone's internal resolution process can settle matters in less than a week. This efficient approach contrasts sharply with traditional systems that may take years to reach a resolution.</li>
+<li><strong>Low Tax Bracket</strong>: Enjoy significant tax advantages within the freezone. There are no capital gains or wealth taxes, and net profits are taxed at a mere 5%. This friendly tax environment fosters growth and profitability.</li>
+<li><strong>Integration with the Financial World</strong>: This freezone is integrated with the global financial ecosystem, providing seamless access and transactions across various financial platforms.</li>
+<li><strong>Global Transactions Capability</strong>: this freezone is part of <a href="https://thecommonwealth.org">The Common Wealth</a>, you can conduct transactions worldwide while complying with full regulatory scope. This ensures both flexibility and legal adherence across international boundaries.</li>
+<li><strong>Crowdfunding and Security Tokens Creation</strong>: Want to raise funds or create your own security tokens? The digital freezone allows you to organize crowdfunding campaigns or create personalized security tokens, expanding your financial capabilities.</li>
+<li><strong>Ownership of Digital Assets</strong>: Within the freezone, you have the ability to own and manage various digital assets. This offers unique opportunities for investment, growth, and diversification.</li>
+<li><strong>Legal Wrapped DAO (Decentralized Autonomous Organization)</strong>: You can organize and operate a legally wrapped DAO within the freezone. This enables you to take advantage of decentralized governance and control while ensuring legal compliance.</li>
+</ul>
+<blockquote>
+<p>You will enjoy a 3-year membership, complete with free license fees for the initial 3 years.</p>
+</blockquote>
+<h3 id="your-personalized-digital-twin"><a class="header" href="#your-personalized-digital-twin">Your Personalized Digital Twin</a></h3>
+<p>Your digital twin is more than just a tool; it's an extension of you in the digital world. Here's what sets it apart:</p>
+<ul>
+<li><strong>Ownership</strong>: It's 100% yours. All the data and digital skills within it belong solely to you.</li>
+<li><strong>Hosting</strong>: Choose a secure location that suits you. Hosted on <a href="https://threefold.io">https://threefold.io</a>, it can even be in the comfort of your home.</li>
+</ul>
+<h4 id="some-initial-features"><a class="header" href="#some-initial-features">Some Initial Features</a></h4>
+<p>Your digital twin comes packed with powerful features designed to make your digital life more efficient and secure:</p>
+<ul>
+<li><strong>Sovereign Chat</strong>: Communicate globally with anyone without compromising on privacy.</li>
+<li><strong>Personalized File Storage</strong>: Think of it as your own Dropbox, but with full ownership and control.</li>
+<li><strong>Time Management Tools</strong>: Organize your schedule with precision.</li>
+<li><strong>Group Collaboration Features</strong>: Work together with others more efficiently.</li>
+<li><strong>Integrated Digital Currency Wallet</strong>: It even includes an embedded physical gold token.</li>
+<li><strong>E-Commerce Capabilities</strong>: Buy and sell goods and services without friction or hassle.</li>
+<li><strong>Automatic Tax Reporting and Business Planning</strong>: Manage your financials with automated tools.</li>
+</ul>
+<p>Your digital twin isn't just a concept; it's a reality that places unparalleled power and convenience at your fingertips.</p>
+<br>
+<br>
+<p><strong>Bye-bye annoyances, hello freedom! Your digital and financial sovereign future starts today.</strong></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../products/foundation.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../digitaltwin/who_are_we.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../products/foundation.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../digitaltwin/who_are_we.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="../mermaid.min.js"></script>
+        <script src="../mermaid-init.js"></script>
+
+
+    </div>
+    </body>
+</html>
