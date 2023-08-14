@@ -2,17 +2,15 @@
 
 # Follow
 
-If you like to follow what I am working on please join our channel:
+If you like to follow what we are working on please join our channel:
 
 > TODO
 
 ## Website
 
-> TODO
-
+[freezone.ourworld.tf](https://freezone.ourworld.tf/)
 
 ## This Book
 
 This book can be found on [http://...](http://...).
-
 

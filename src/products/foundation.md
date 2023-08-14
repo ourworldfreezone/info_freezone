@@ -1,7 +1,7 @@
 
 ### Digital Foundation (DF)
 
-A Digital Foundation is a special non-profit entity within the Digital Free Zone, designed to act like a local or global business company. Here are the key characteristics and features of a Digital Foundation:
+A Digital Foundation is a special non-profit entity within the digital free zone, designed to act like a local or global business company. Here are the key characteristics and features of a Digital Foundation:
 
 - **Non-Profit Structure:** Unlike typical business companies, a Digital Foundation operates on a non-profit basis. It can accumulate wealth and money, but these funds cannot be returned to its members or shareholders.
 - **No Shareholders, Only Members:** Unlike other types of companies, a Digital Foundation doesn't have shareholders but consists of members. Any funds or wealth within the foundation remain within it and must be used solely for the benefit of the foundation itself.
@@ -12,6 +12,6 @@ A Digital Foundation is a special non-profit entity within the Digital Free Zone
 
 ### Conclusion
 
-Digital Foundations represent a novel and valuable addition to the types of companies available within the Digital Free Zone. They blend the operational capabilities of a business company with the ethical commitment of a non-profit entity. 
+Digital Foundations represent a novel and valuable addition to the types of companies available within the digital free zone. They blend the operational capabilities of a business company with the ethical commitment of a non-profit entity. 
 
-This balance allows them to pursue ambitious goals without the profit-driven constraints of typical corporations. Moreover, the digital tools and flexible governance options ensure an efficient and transparent operation, aligning with the innovative spirit of the Digital FreeZone.
+This balance allows them to pursue ambitious goals without the profit-driven constraints of typical corporations. Moreover, the digital tools and flexible governance options ensure an efficient and transparent operation, aligning with the innovative spirit of the digital free zone.
