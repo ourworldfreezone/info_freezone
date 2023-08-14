@@ -22,9 +22,9 @@
   - [Local Business Company](products/lbc.md)
   - [Foundation](products/foundation.md) 
 - [Reserve Now](sales/buy.md)
-  - [About Us](digitaltwin/who_are_we.md)
 - [Follow](contribute/follow.md)
   - [Contribute](contribute/contribute.md)
 - [Appendix](extra/extra.md)
+  - [About Us](digitaltwin/who_are_we.md)
   - [How does it Work](digitaltwin/how_does_it_work.md)
   
