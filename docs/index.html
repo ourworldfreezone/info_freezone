@@ -1,0 +1,237 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Introduction - Earth Regenerator</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = null;
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="intro/intro_readme.html" class="active">Introduction</a></li><li class="chapter-item "><a href="features/features.html">FreeZone Features</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="features/1_dispute_resolution.html">dispute resolution</a></li><li class="chapter-item "><a href="features/2_financial_system.html">financial system</a></li><li class="chapter-item "><a href="features/3_feature_digital_twin.html">digital twin</a></li><li class="chapter-item "><a href="features/4_biz_mgmt_tool.html">business mgmt tool</a></li><li class="chapter-item "><a href="features/5_directory.html">marketplace</a></li><li class="chapter-item "><a href="features/6_tax_efficiency.html">tax efficiency</a></li><li class="chapter-item "><a href="features/7_security_token_offerings.html">token offerings</a></li><li class="chapter-item "><a href="features/8_digital_signatures.html">digital signatures</a></li><li class="chapter-item "><a href="features/9_contract_mgmt.html">contract mgmt</a></li><li class="chapter-item "><a href="features/10_legal_dao.html">legal dao</a></li><li class="chapter-item "><a href="features/11_common_wealth.html">common wealth</a></li><li class="chapter-item "><a href="features/12_beyond_kyc.html">beyond kyc</a></li><li class="chapter-item "><a href="features/13_governance.html">governance</a></li></ol></li><li class="chapter-item "><a href="products/products.html">Products</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="products/guest_company.html">Guest Company</a></li><li class="chapter-item "><a href="products/personal_company.html">Personal Company</a></li><li class="chapter-item "><a href="products/gbc.html">Global Business Company</a></li><li class="chapter-item "><a href="products/lbc.html">Local Business Company</a></li><li class="chapter-item "><a href="products/foundation.html">Foundation</a></li></ol></li><li class="chapter-item "><a href="contribute/follow.html">Follow</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="contribute/contribute.html">Contribute</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Earth Regenerator</h1>
+
+                    <div class="right-buttons">
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p><img src="img/new_world.png" alt="" /></p>
+<p>A digital freezone is a special economic zone that provides regulatory incentives and benefits to businesses through a fully online platform. Some key aspects:</p>
+<ul>
+<li>Provides tax holidays, customs duty exemption, streamlined license approvals, visas and other benefits typically offered in physical freezone areas.</li>
+<li>The key difference is companies can register, access incentives, manage compliance and more completely through digital channels - no need to be physically present.</li>
+<li>Automates document submission, license renewals, visas and other regulatory processes that traditionally require paperwork.</li>
+<li>Can be accessed from anywhere with an internet connection. Not limited to a physical geography.</li>
+</ul>
+<p>Some benefits of a digital freezone model:</p>
+<ul>
+<li>Much faster and easier for companies to begin operations and leverage incentives.</li>
+<li>Dramatically reduces administrative hurdles and compliance costs.</li>
+<li>Opens up freezone advantages to a wider range of companies by removing geographical limitations.</li>
+<li>Enable smoother flow of trade, capital and talent across borders.</li>
+<li>Scales more easily than physical freezones which have acreage constraints.</li>
+</ul>
+<p>A digital freezones promote growth and innovation by lowering barriers to starting and operating businesses globally through technology and automation. </p>
+<p>This helps unlock the potential of more entrepreneurs worldwide.</p>
+<h2 id="digital-nomads"><a class="header" href="#digital-nomads">Digital nomads</a></h2>
+<p>Digital nomads are an important target user group and area of focus for OurVerse. Here are some key reasons:</p>
+<ul>
+<li>Growing Population - Estimated 35 million digital nomads globally, rising rapidly as location-independent online work becomes more mainstream.</li>
+<li>Need for Connectivity - Reliable communication tools and ability to collaborate online smoothly are essential for digital nomads' livelihoods. OurVerse provides this.</li>
+<li>Global Lifestyle - OurVerse's decentralized infrastructure ensures digital nomads can maintain reliable access worldwide, not tied to any single region.</li>
+<li>Shared Values - Independence, living/working remotely, and global connections align well with OurVerse's vision for an open and user-controlled internet.</li>
+<li>Influencers - Nomads with large followings can become brand ambassadors introducing OurVerse's benefits to new users and communities.</li>
+<li>Localization - Digital nomads have valuable insights into customizing OurVerse's experience for different cultures and languages.</li>
+<li>Monetization - Transactions like payments and ecommerce integrated into OurVerse are very relevant to nomads working and spending online.</li>
+</ul>
+<p>With features tailored to their needs and values, plus nomads' word-of-mouth advocacy, OurVerse can scale quickly within this fast-growing user profile that is inherently globally connected.</p>
+<p>Let me know if you need any other details on OurVerse's strategy and opportunities relating to digital nomads specifically. Happy to provide more examples.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+                            <a rel="next" href="features/features.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+                    <a rel="next" href="features/features.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="mermaid.min.js"></script>
+        <script src="mermaid-init.js"></script>
+
+
+    </div>
+    </body>
+</html>

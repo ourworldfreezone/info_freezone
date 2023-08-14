@@ -1,0 +1,263 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>token offerings - Earth Regenerator</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = null;
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../intro/intro_readme.html">Introduction</a></li><li class="chapter-item expanded "><a href="../features/features.html">FreeZone Features</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../features/1_dispute_resolution.html">dispute resolution</a></li><li class="chapter-item "><a href="../features/2_financial_system.html">financial system</a></li><li class="chapter-item "><a href="../features/3_feature_digital_twin.html">digital twin</a></li><li class="chapter-item "><a href="../features/4_biz_mgmt_tool.html">business mgmt tool</a></li><li class="chapter-item "><a href="../features/5_directory.html">marketplace</a></li><li class="chapter-item "><a href="../features/6_tax_efficiency.html">tax efficiency</a></li><li class="chapter-item expanded "><a href="../features/7_security_token_offerings.html" class="active">token offerings</a></li><li class="chapter-item "><a href="../features/8_digital_signatures.html">digital signatures</a></li><li class="chapter-item "><a href="../features/9_contract_mgmt.html">contract mgmt</a></li><li class="chapter-item "><a href="../features/10_legal_dao.html">legal dao</a></li><li class="chapter-item "><a href="../features/11_common_wealth.html">common wealth</a></li><li class="chapter-item "><a href="../features/12_beyond_kyc.html">beyond kyc</a></li><li class="chapter-item "><a href="../features/13_governance.html">governance</a></li></ol></li><li class="chapter-item "><a href="../products/products.html">Products</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../products/guest_company.html">Guest Company</a></li><li class="chapter-item "><a href="../products/personal_company.html">Personal Company</a></li><li class="chapter-item "><a href="../products/gbc.html">Global Business Company</a></li><li class="chapter-item "><a href="../products/lbc.html">Local Business Company</a></li><li class="chapter-item "><a href="../products/foundation.html">Foundation</a></li></ol></li><li class="chapter-item "><a href="../contribute/follow.html">Follow</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../contribute/contribute.html">Contribute</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Earth Regenerator</h1>
+
+                    <div class="right-buttons">
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p><img src="img/crowd_funding.png" alt="" /></p>
+<h2 id="feature-7-crowdfunding-and-security-token-offerings"><a class="header" href="#feature-7-crowdfunding-and-security-token-offerings">FEATURE 7: Crowdfunding and Security Token Offerings</a></h2>
+<p>The Digital Free Zone introduces a dynamic and innovative approach to crowdfunding and security token offerings, providing an alternative to traditional and often expensive methods. </p>
+<p>Here's a breakdown of this feature:</p>
+<ul>
+<li>
+<p><strong>Digital Asset Offering Ability</strong>:</p>
+<ul>
+<li>Companies within the Free Zone can create digital asset offerings, including securities, shares, or other digital securities.</li>
+<li>These offerings are tracked on the FreeZone's blockchain system, ensuring transparency and authenticity.</li>
+</ul>
+</li>
+<li>
+<p><strong>Accessibility and Cost-Effectiveness</strong>:</p>
+<ul>
+<li>Unlike traditional public offerings in places like Switzerland, Luxembourg, or New York, which can be costly and limited, the Digital Free Zone offers an affordable and streamlined process.</li>
+<li>Traditional security offerings can cost between $300,000 and $500,000 with annual expenses in the hundreds of thousands or even millions. In the Free Zone, these costs are dramatically reduced.</li>
+</ul>
+</li>
+<li>
+<p><strong>Security and Authenticity Requirements</strong>:</p>
+<ul>
+<li>Each security offering undergoes rigorous screening, including ownership of assets and background checks.</li>
+<li>This transparent mechanism offers protection for subscribers, ensuring that the assets are genuine and not fraudulent.</li>
+</ul>
+</li>
+<li>
+<p><strong>Guest FreeZone Accounts</strong>:</p>
+<ul>
+<li>While buyers and suppliers of a security offering need to be in the Free Zone, guest accounts provide a flexible solution.</li>
+<li>Costing only $20 a month, guest accounts allow participation in token offerings without all the advanced features.</li>
+<li>These accounts enable potentially hundreds of millions of people to join the Free Zone at a low cost.</li>
+</ul>
+</li>
+<li>
+<p><strong>Crowdfunding Capabilities</strong>:</p>
+<ul>
+<li>Companies within the Digital Free Zone can organize crowdfundings among members.</li>
+<li>Thousands of people can co-own a company through digital shares, with the ability to sell, organize, and define the shares.</li>
+<li>A digital shareholders agreement ensures that everyone can see the terms, and an internal dispute resolution mechanism swiftly resolves conflicts.</li>
+</ul>
+</li>
+<li>
+<p><strong>Innovation and Potential</strong>:</p>
+<ul>
+<li>The Free Zone's approach to crowdfunding and security token offerings revolutionizes how companies can raise capital, collaborate, and grow.</li>
+<li>By removing traditional barriers and leveraging blockchain technology, the Free Zone fosters a transparent, secure, and accessible environment for all.</li>
+</ul>
+</li>
+</ul>
+<p>In summary, the Digital Free Zone's feature of crowdfunding and security token offerings provides a groundbreaking alternative to conventional methods. Through digital asset offerings, secure and transparent mechanisms, affordable guest accounts, and innovative crowdfunding capabilities, it facilitates broader participation and unleashes new opportunities for companies and investors alike.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../features/6_tax_efficiency.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../features/8_digital_signatures.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../features/6_tax_efficiency.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../features/8_digital_signatures.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="../mermaid.min.js"></script>
+        <script src="../mermaid-init.js"></script>
+
+
+    </div>
+    </body>
+</html>
