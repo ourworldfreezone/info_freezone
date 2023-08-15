@@ -2,6 +2,9 @@
 
 ![](img/new_world.png)
 
+OurWorld digital freezone is a collaboration between the Government of Zanzibar and OurWorld Venture Creator. 
+
+## Short Why
 
 Owning a company in a digital freezone liberates you as a global citizen. 
 

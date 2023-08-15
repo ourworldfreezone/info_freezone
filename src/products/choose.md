@@ -21,11 +21,6 @@
 | order more than 1 name                            |       |   V   |   V   |   V   |   V   |
 | specialty name auction (short names)              |       |   V   |   V   |   V   |   V   |
 |                                                   |       |       |       |       |       |
-| **dispute resolution**                            |       |       |       |       |       |
-| 3 level dispute resolution                        |   V   |   V   |   V   |   V   |   V   |
-| speedy track (resolve disputes <1 week)           |   V   |   V   |   V   |   V   |   V   |
-| fall back to international court                  |   V   |   V   |   V   |   V   |   V   |
-|                                                   |       |       |       |       |       |
 | **governance**                                    |       |       |       |       |       |
 | digital signatures                                |   V   |   V   |   V   |   V   |   V   |
 | voting                                            |   V   |   V   |   V   |   V   |   V   |
@@ -71,6 +66,13 @@
 | business website with possible e-commerce         |       |   V   |   V   |   V   |   V   |
 | AI driven search on internet                      |       |   +   |   +   |   +   |   +   |
 | private chat / video conference                   |       |   +   |   +   |   +   |   +   |
+|                                                   |       |       |       |       |       |
+| **dispute resolution**                            |       |       |       |       |       |
+| 3 level dispute resolution                        |   V   |   V   |   V   |   V   |   V   |
+| speedy track (resolve disputes <1 week)           |   V   |   V   |   V   |   V   |   V   |
+| fall back to international court                  |   V   |   V   |   V   |   V   |   V   |
+
+<br>
 
 - '+' means optional
 - PC = Personal Company
