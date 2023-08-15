@@ -1,6 +1,7 @@
 ## Digital Free Zone
 
 - [Introduction](intro/intro_readme.md)
+- [Why](intro/why.md)
 - [Free Zone Features](features/features.md)		
   - [Dispute Resolution](features/1_dispute_resolution.md)		
   - [Financial System](features/2_financial_system.md)
