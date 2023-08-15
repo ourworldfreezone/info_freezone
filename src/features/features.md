@@ -23,10 +23,10 @@ The OurWorld Digital Free Zone (DFZ) is set up with a collection of features tha
    * Facilitates cost-effective security and token offerings, enabling easier fundraising and co-ownership opportunities.
 1. **[Legalized DAOs](8_legal_dao.md)**:
     * One of the first environments where Decentralized Autonomous Organizations (DAOs) can be legally established and operated.
-1. **[Digital Twin Interface] (9_feature_digital_twin.md )**:
+1. **[Digital Twin Interface](9_feature_digital_twin.md)**:
    * The DFZ's Digital Twin application provides a centralized interface for accessing all free zone features.
    * Users own 100% of the data and digital capabilities, reinforcing privacy and control.
-1. **[Integrated Business and Tax Management Tools] (10_biz_mgmt_tool.md )**:
+1. **[Integrated Business and Tax Management Tools](10_biz_mgmt_tool.md )**:
    * Simplified planning, financial tracking, and automatic tax reporting streamline business operations, making management less burdensome.
 1. **[Commonwealth Integration](11_common_wealth.md)**:
     * Being part of the commonwealth opens up possibilities for global trade and collaboration.
