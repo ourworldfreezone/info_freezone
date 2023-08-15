@@ -5,7 +5,7 @@
 |                                                   |       |       |       |       |       |
 | **shareholders**                                  |       |       |       |       |       |
 | single shareholder                                |   V   |   V   |   V   |   V   |   V   |
-| mutliple shareholder                              |       |       |   V   |   V   |   V   |
+| multiple shareholder                              |       |       |   V   |   V   |   V   |
 | advanced board management                         |       |       |   V   |   V   |   V   |
 | can be shareholder of LBC/GBC/Foundation          |   V   |   V   |   V   |   V   |   V   |
 | be shareholder of external company                |       |   V   |       |   V   |       |
@@ -15,6 +15,11 @@
 | no capital gain tax                               |   V   |   V   |   V   |   V   |   V   |
 | no wealth tax                                     |   V   |   V   |   V   |   V   |   V   |
 | 5 % sustaimability tax on net income (*)          |   V   |   V   |   V   |   V   |   V   |
+|                                                   |       |       |       |       |       |
+| **naming system**                                 |       |       |       |       |       |
+| your unique name registration                     |       |   V   |   V   |   V   |   V   |
+| order more than 1 name                            |       |   V   |   V   |   V   |   V   |
+| specialty name auction (short names)              |       |   V   |   V   |   V   |   V   |
 |                                                   |       |       |       |       |       |
 | **dispute resolution**                            |       |       |       |       |       |
 | 3 level dispute resolution                        |   V   |   V   |   V   |   V   |   V   |
@@ -28,7 +33,7 @@
 | contract signing                                  |   V   |   V   |   V   |   V   |   V   |
 | contract creation                                 |       |   V   |   V   |   V   |   V   |
 | contract auditing & visbility                     |   V   |   V   |   V   |   V   |   V   |
-| advanced DAO management                           |       |       |   V   |   V   |   V   |
+| advanced DAO management, legal DAO wrapper        |       |       |   V   |   V   |   V   |
 |                                                   |       |       |       |       |       |
 | **finance**                                       |       |       |       |       |       |
 | gold account with IBAN in/out                     |   V   |   V   |   V   |   V   |   V   |
