@@ -1,4 +1,4 @@
-# Choose your Digital Freezone Company
+# Choose your Digital Free Zone Company
 
 | Feature                                           |  PC   |  TC   |  LBC  |  GBC  |   F   |
 | ------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |
