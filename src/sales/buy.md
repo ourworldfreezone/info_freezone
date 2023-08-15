@@ -2,10 +2,6 @@
 
 ## Reserve Your Company in the Free Zone
 
-Purchasing a company in the OurWorld Digital Free Zone offers a multitude of unparalleled benefits for businesses and individuals alike. The zone's structure provides various types of digital companies, each tailored to specific needs, allowing for innovative governance and flexible collaboration mechanisms. 
-
-With tax efficiency, robust security measures, support for legalized DAOs, efficient contract management, and access to global markets through the Commonwealth connection, entrepreneurs find a streamlined and cost-effective environment to grow and manage their businesses. Furthermore, the zone’s integration with cutting-edge technology, such as blockchain, AI, and digital signatures, facilitates a transparent and agile business environment, making it an attractive hub for digital nomads, startups, and established corporations looking to optimize their operations and partake in the future of decentralized global commerce.
-
 
 **How to Reserve Your Free Zone Company:**
 
@@ -66,7 +62,7 @@ Your digital twin comes packed with powerful features designed to make your digi
 - **E-Commerce Capabilities**: Buy and sell goods and services without friction or hassle.
 - **Automatic Tax Reporting and Business Planning**: Manage your financials with automated tools.
 
-Check the roadmap to know which feature will be delivered.
+Check the roadmap to know which feature will be delivered. The digital twin is product in stealth from one of the startups in the OurWorld Venture Creator.
 
 <br>
 
