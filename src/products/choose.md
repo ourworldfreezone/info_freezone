@@ -36,8 +36,10 @@
 | advanced DAO management, legal DAO wrapper        |       |       |   V   |   V   |   V   |
 |                                                   |       |       |       |       |       |
 | **finance**                                       |       |       |       |       |       |
-| gold account with IBAN in/out                     |   V   |   V   |   V   |   V   |   V   |
+| gold account with IBAN in/out                     |   +   |   V   |   V   |   V   |   V   |
+| debit card                                        |   +   |   V   |   V   |   V   |   V   |
 | digital currencies  / digital assets              |   V   |   V   |   V   |   V   |   V   |
+| digital exchange connector                        |       |   V*   |   V*   |   V*   |   V*   |
 | international bank account                        |       |   +   |   +   |   +   |   +   |
 |                                                   |       |       |       |       |       |
 | **funding**                                       |       |       |       |       |       |
@@ -77,3 +79,4 @@
 - GBC = Global Business Company
 - F = Foundation
 - (*) = net profit
+- V* = available mid 2024
