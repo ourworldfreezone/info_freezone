@@ -9,14 +9,20 @@ It's more than just a business; it's a ticket to freedom and flexibility. In thi
 
 Your company becomes a gateway to opportunities, allowing you to interact and trade with the world seamlessly. No matter where you are, the digital freezone keeps you connected, giving you the power to shape your future, your way.
 
+Say goodbye to complexities and hello to a new era of simplicity and efficiency, empowering your business to thrive like never before
+
 ## What is
 
-A digital free zone is a special economic zone that provides regulatory incentives and benefits to businesses through a fully online platform. Some key aspects:
+A digital free zone is a special economic zone that provides regulatory incentives and benefits to businesses through a fully online platform. 
 
-- Provides reduced tax, streamlined license approvals
+Some key aspects:
+
+- Provides reduced tax
+- Streamlined license approvals (a lot less administration)
 - Companies can register, access incentives, manage compliance and more – completely through digital channels. No need to be physically present.
 - Automates document submission, license renewals that traditionally require paperwork.
 - Can be accessed from anywhere with an internet connection. Not limited to a physical geography.
+- Collaboration between likeminded people.
 
 
 ## Specially made for Digital Nomads
