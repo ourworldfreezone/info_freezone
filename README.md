@@ -1,4 +1,4 @@
-# Ourworld freezone
+# Ourworld Free Zone
 
 > see [https://despiegk.github.io/book_earth_regenerator/intro/intro_readme.html](https://ourworldfreezone.github.io/info_freezone/intro/intro_readme.html)
 
