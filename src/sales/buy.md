@@ -66,7 +66,7 @@ Your digital twin comes packed with powerful features designed to make your digi
 - **E-Commerce Capabilities**: Buy and sell goods and services without friction or hassle.
 - **Automatic Tax Reporting and Business Planning**: Manage your financials with automated tools.
 
-Your digital twin isn't just a concept; it's a reality that places unparalleled power and convenience at your fingertips.
+Check the roadmap to know which feature will be delivered.
 
 <br>
 
