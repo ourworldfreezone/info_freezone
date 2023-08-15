@@ -1,6 +1,6 @@
 ![](img/contract_mgmt.png)
 
-## Feature 9: Contract Management
+## Feature 5: Contract Management
 
 Contract management is an essential aspect of business operations, and the digital free zone offers a robust solution that streamlines and simplifies this often tedious process. 
 

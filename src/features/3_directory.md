@@ -1,6 +1,6 @@
 ![](img/people1.png)
 
-## Feature 5: Free Zone Directory
+## Feature 3: Free Zone Directory
 
 The Digital Free Zone introduces an integrated directory, enhancing connectivity and commerce within the community. 
 

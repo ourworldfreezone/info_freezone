@@ -1,6 +1,6 @@
 ![](img/digital_twin.png)
 
-## Feature 3: Digital Twin Integration
+## Feature 9: Digital Twin Integration
 
 The digital free zone is fundamentally connected with the concept of a Digital Twin, providing a unique and highly personalized interface to all its features. 
 

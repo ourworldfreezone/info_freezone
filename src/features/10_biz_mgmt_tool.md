@@ -1,6 +1,6 @@
 ![](img/biz_mgmt.png)
 
-## Feature 4: Integrated Business Management Tool
+## Feature 10: Integrated Business Management Tool
 
 The digital free zone further enhances convenience and efficiency with an integrated business management and tax reporting tool, providing a robust solution for your free zone company. 
 

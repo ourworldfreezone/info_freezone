@@ -1,6 +1,6 @@
 ![](img/person_cloud_books.png)
 
-## Feature 6: Tax Efficiency
+## Feature 1: Tax Efficiency
 
 The digital free zone offers a tax-efficient environment to foster business growth and sustainability. 
 

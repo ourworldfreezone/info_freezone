@@ -1,7 +1,7 @@
 
 ![](img/legal_dao.png)
 
-## Feature 10: Legalized DAOs (Decentralized Autonomous Organizations)
+## Feature 8: Legalized DAOs (Decentralized Autonomous Organizations)
 
 In the fast-evolving world of web3, DAOs play a crucial role as decentralized entities that enable community-led decision-making and management. While the concept of DAOs is revolutionary, legalizing and organizing them has been a complex challenge. The digital free zone offers a solution to this problem by providing a structure to legalize DAOs. 
 

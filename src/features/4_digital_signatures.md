@@ -1,6 +1,6 @@
 ![](img/person_phone_cloud.png)
 
-## Feature 8: Digital Signatures
+## Feature 4: Digital Signatures
 
 The digital free zone's support for digital signatures represents another step towards simplifying and modernizing the way businesses operate within this unique ecosystem. 
 

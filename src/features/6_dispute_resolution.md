@@ -1,7 +1,7 @@
 
 ![](img/dispure_resolution.png)
 
-## Feature 1: Dispute Resolution
+## Feature 6: Dispute Resolution
 
 The digital free zone offers a structured and efficient mechanism for resolving disputes, ensuring that conflicts can be addressed quickly and fairly. The process unfolds through a multi-stage approach:
 
