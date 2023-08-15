@@ -20,7 +20,7 @@ Here's a breakdown of this feature:
 
 4. **Personal Free Zone Accounts**:
    * While buyers and suppliers of a security offering need to be in the free zone, Personal Accounts provide a flexible solution.
-   * Costing only $20 a month, Personal Accounts allow participation in token offerings without all the advanced features.
+   * Costing only $10 a month, Personal Accounts allow participation in token offerings without all the advanced features.
    * These accounts enable potentially hundreds of millions of people to join the free zone at a low cost.
 
 5. **Crowdfunding Capabilities**:

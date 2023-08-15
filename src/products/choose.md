@@ -39,7 +39,7 @@
 | gold account with IBAN in/out                     |   +   |   V   |   V   |   V   |   V   |
 | debit card                                        |   +   |   V   |   V   |   V   |   V   |
 | digital currencies  / digital assets              |   V   |   V   |   V   |   V   |   V   |
-| digital exchange connector                        |       |   V*   |   V*   |   V*   |   V*   |
+| digital exchange connector                        |       |  V*   |  V*   |  V*   |  V*   |
 | international bank account                        |       |   +   |   +   |   +   |   +   |
 |                                                   |       |       |       |       |       |
 | **funding**                                       |       |       |       |       |       |
