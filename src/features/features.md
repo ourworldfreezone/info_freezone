@@ -30,7 +30,7 @@ Let's explore what sets this free zone apart:
    * Users own 100% of the data and digital capabilities, reinforcing privacy and control.
 1. **[Integrated Business and Tax Management Tools](10_biz_mgmt_tool.md )**:
    * Simplified planning, financial tracking, and automatic tax reporting streamline business operations, making management less burdensome.
-1. **[Commonwealth Integration](11_common_wealth.md)**:
+1. **[Globally Connected](11_common_wealth.md)**:
     * Being part of the commonwealth opens up possibilities for global trade and collaboration.
 1. **[Strong Authentication and Proof of Ownership](12_beyond_kyc.md)**:
     * Beyond KYC and AML, the DFZ implements rigorous screening to ensure a secure environment free from fraudulent activity.
