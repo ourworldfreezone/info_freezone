@@ -6,15 +6,20 @@ It's the ideal option for those looking to have greater control and flexibility 
 
 Here's what the Tanzanite Company includes:
 
+## Basic Features
+
 - **Holding Money and Digital Assets:** Owners can securely hold various forms of currency, including digital assets.
 - **Owning Assets:** Provides the ability to hold physical and digital properties.
 - **Sending and Receiving Money:** Enables seamless transactions both within the free zone and with external parties.
 - **Signing Contracts:** Personal Companies have the authority to enter into legally binding agreements.
-- **Managing Contracts:** Oversee all contractual obligations, alterations, and fulfillment.
 - **Collaboration:** Facilitates working relationships with other free zone members and outside entities.
 - **Global Transactions:** Accepting and dispatching funds to and from international sources.
 - **Voting Rights:** Participate in the decision-making processes for one of the companies within the free zone.
 - **Participation in Security Token Offerings:** Engage in investment opportunities within the free zone through security token offerings.
+
+## Advanced features
+
+- **Managing Contracts:** Create and oversee all contractual obligations, alterations, and fulfillment.
 - **Creating Voting Proposals:** Offers the ability to initiate and manage voting processes within the free zone, giving more influence over decision-making.
 - **Creating Circles (Collaborative Structures):** Facilitates the formation of collaborative groups or "circles" for joint projects or initiatives.
 - **Creating Other Companies:** Empowers the owner to establish additional business entities, such as global business companies or foundations, within the free zone.
