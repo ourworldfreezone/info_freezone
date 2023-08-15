@@ -2,7 +2,9 @@
 
 # Free Zone Features
 
-The OurWorld Digital Free Zone (DFZ) is set up with a collection of features that make it a uniquely innovative and attractive environment for businesses, entrepreneurs, and individuals. Let's explore what sets this free zone apart:
+The OurWorld Digital Free Zone (DFZ) is set up with a collection of features that make it a uniquely innovative and attractive environment for businesses, entrepreneurs, and individuals. 
+
+Let's explore what sets this free zone apart:
 
 
 1. **[Tax Efficiency](1_tax_efficiency.md )**:
