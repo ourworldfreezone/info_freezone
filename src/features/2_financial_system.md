@@ -31,4 +31,4 @@ Here's an in-depth look at its structure:
    * Members can link their exchange accounts (e.g., Kraken) to their digital free zone company.
    * Additional exchanges and connectors with digital banks are in development, expected in Q2 2024.
 
-This integrated financial system offers  flexibility and security for Members of the free zone. Whether handling physical gold, trading in digital currencies or operating on global exchanges, Members have an advanced, fully-integrated set of finance management tools at their disposal. 
+This integrated financial system offers  flexibility and security for Members of the free zone. Whether handling physical gold, trading in digital currencies or operating on global exchanges, Members have an advanced, fully-integrated set of personal and corporate finance management tools at their disposal. 
