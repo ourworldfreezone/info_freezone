@@ -1,7 +1,7 @@
 
 ![](img/common_wealth.png)
 
-## Feature 11: Part of a global financial and economical system.
+## Feature 11: Part of a Global Financial and Economical System
 
 The digital free zone's affiliation with the commonwealth represents a significant advantage, extending its reach and facilitating international collaboration. 
 
