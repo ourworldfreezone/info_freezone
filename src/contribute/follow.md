@@ -8,9 +8,9 @@ If you like to follow what we are working on please join our channel:
 
 ## Website
 
-[freezone.ourworld.tf](https://freezone.ourworld.tf/)
+[ourworldfreezone.com](https://freezone.ourworld.tf/)
 
 ## This Book
 
-This book can be found on [http://...](http://...).
+[info.ourworldfreezone.com](https://ourworldfreezone.github.io/info_freezone/intro/intro_readme.html)
 

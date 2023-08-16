@@ -8,7 +8,7 @@ A Digital Foundation is a special non-profit entity within the digital free zone
 - **Minimum Co-Ownership:** A foundation must always be co-owned by a minimum of five members. However, this ownership is unique in its non-profit nature, ensuring that no individual can forcibly extract money from the foundation, even if all five members were to agree.
 - **Governance System:** The members use a digital governance system to manage the foundation's activities. This system enables them to reach consensus on various decisions, including funding activities, sending and receiving money, and other functions necessary for a non-profit foundation.
 - **Restriction on Fund Distribution:** The structure of the Digital Foundation ensures that all accumulated money must be dedicated to the mission and objectives of the foundation itself. It cannot be distributed to members or any associated shareholders.
-- **Flexibility in Governance:** Within the Our World Free Zone, each company, including Digital Foundations, can adopt a flexible digital governance system tailored to its unique needs and goals. This system is defined at the setup stage, allowing for a bespoke approach to decision-making and operations.
+- **Flexibility in Governance:** Within the OurWorld Free Zone, each company, including Digital Foundations, can adopt a flexible digital governance system tailored to its unique needs and goals. This system is defined at the setup stage, allowing for a bespoke approach to decision-making and operations.
 
 ### Conclusion
 
