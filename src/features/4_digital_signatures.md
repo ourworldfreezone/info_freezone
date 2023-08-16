@@ -19,6 +19,8 @@ Here's how this feature stands out:
 3. **Personal Copies**: 
    * The free zone also enables individuals to keep their own copies of these digitally signed contracts at home.
    * This offers an added layer of security and convenience, allowing members to have immediate access to their agreements and documents whenever needed.
+  
+[I"m not sure this one sounds particularly earth-shattering - that you get to keep copies of your contracts]
 
 4. **Integration with Other Features**: 
    * Digital signatures can be used across various functions within the free zone, whether it's business agreements, security token offerings, or transactions between weight accounts.
