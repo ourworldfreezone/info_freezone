@@ -28,5 +28,5 @@
   - [Contribute](contribute/contribute.md)
 - [Appendix](extra/extra.md)
   - [About Us](digitaltwin/who_are_we.md)
-  - [How Does it Work](digitaltwin/how_does_it_work.md)
+  - [Technical Architecture](digitaltwin/how_does_it_work.md)
   
