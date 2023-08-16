@@ -1,27 +1,27 @@
 
 ![](img/common_wealth.png)
 
-## Feature 11: Part of a global Financial and Economical System
+[NB:  I changed this entire section;  the whole Commonwealth thing didn't really make sense for reasons I won't bore you with.  The way I've revised it is much more compelling as a value proposition.  Feel free to add to it]
 
-The digital free zone's affiliation with the commonwealth represents a significant advantage, extending its reach and facilitating international collaboration. 
+## Feature 11: Legimate Member of a global Financial and Economic System
 
-Here's an in-depth look at this feature and the basics of the Commonwealth itself:
+As a Public-Private Partership with the Government of Zanzibar, the Digital Free Zone occupies a unique position within the global financial system.  As such, it is capable of significantly extending its reach and impact through international collaboration. 
 
-1. **Inclusion in the Commonwealth**: 
-   * The digital free zone being part of the Commonwealth means that companies within the free zone enjoy the privileges and connections that come with Commonwealth membership. They can conduct business, close contracts, transfer money, and collaborate with entities in other Commonwealth countries seamlessly.
+Here's an in-depth look at this element of the Free Zone:
 
-2. **Basics of the Commonwealth**: 
-   * The Commonwealth is a political association of 54 member countries, almost all of which are former territories of the British Empire. It's not a political union but an organization in which countries with diverse social, political, and economic backgrounds are regarded as equal in status.
-   * **Shared Values and Goals**: Members of the Commonwealth are united by shared values, including democracy, human rights, and the rule of law. They collaborate on various international issues, from sustainable development to peace and security.
-   * **Economic and Cultural Ties**: The Commonwealth fosters economic cooperation and trade ties among member nations. It also promotes cultural exchange and shared educational programs.
-   * **Commonwealth Business Forum**: This is an avenue where business leaders from member countries can discuss trade, investment, and how to foster a favorable business environment across the Commonwealth nations.
+1. **Lawful Authority**: 
+   * The Digital Free Zone was established by Decree of Zanzibar President, the Honoralbe Hussein Ali Mwinyi on [XXXXX], and accordingly, carries the force of law.  The authorities granted to Our World Zanzibar (the Free Zone's parent) are obligations of the government and ensure continued operation of the Free Zone without interference.
 
-3. **Benefits for Digital Free Zone Companies**: 
-   * **Global Reach**: Being part of the Commonwealth allows free zone companies to tap into a broad network of international partners and markets.
+2. **Financial Integration**: 
+   * The Free Zone's status as a government partnership enables enhanced engagement with the global financial system; Free Zone Companies will benefit from the integration of these stakeholders into the Free Zone communities.
+   * In doing so, the Free Zone will ensure cooperation and integration is bassed on respect for shared values, including digital sovereignty, sustainable development and .
+   * The Free Zone will benefit from Zanzibar's position in the region through promotiong economic cooperation and trade ties among regional nations. This increased cooperation will also promote cultural exchange and shared educational programs.  
+
+3. **Sustainability**: 
+   * As a government partnership, the Free Zone shares the government's desire to promote trade and development sustainably, i.e., in mannner that protects the environment and preserves the important social, cultural and religious heritage of the Zanzibar Archipelago.  
    * **Ease of Business**: The shared legal systems and standards among many Commonwealth nations can make cross-border collaborations and transactions more straightforward and efficient.
    * **Access to Resources**: It opens up opportunities for accessing various resources, including talents, investments, and technologies across the Commonwealth nations.
 
-4. **Integration with Free Zone Features**: 
-   * The digital free zone's alignment with the Commonwealth further strengthens its features like contract management, integrated financial systems, and dispute resolution, as these can be extended to interactions with other Commonwealth members.
 
-In summary, the digital free zone's participation in the Commonwealth adds a layer of international connection and cooperation, bridging the gap between the innovative digital world and traditional global networks. This connection not only amplifies the potential reach for companies within the free zone but also reinforces the credibility and attractiveness of the zone as a hub for global business and innovation. It signifies a melding of the digital future with established international relations, enhancing opportunities for growth, collaboration, and success.
+
+In summary, the digital free zone's status as a partner of the Government of Zanzibar places it in a unique position -- one in which it will benefit from the Government of Zanzibar's position within the regional and global community of nation states.  It adds a layer of international connection and cooperation, bridging the gap between the innovative digital world and traditional global networks. This connection not only amplifies the potential reach for companies within the free zone but also reinforces the credibility and attractiveness of the zone as a hub for global business and innovation. It signifies a melding of the digital future with established international relations, enhancing opportunities for growth, collaboration, and success.
