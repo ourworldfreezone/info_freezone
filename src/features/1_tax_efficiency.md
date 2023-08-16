@@ -7,14 +7,14 @@ The digital free zone offers a tax-efficient environment to foster business grow
 Here are the key aspects of this feature:
 
 1. **No Capital Gains Tax**:
-   * The absence of capital gains tax is particularly attractive for investors and businesses looking to grow their wealth without additional tax burdens.
+   * The absence of capital gains tax is particularly attractive for investors and businesses looking for a favorable destination to grow their wealth.
 
 2. **No Wealth Tax**:
    * There is no taxation on accumulated wealth within the digital free zone, providing further incentives for both individuals and companies to invest and expand their holdings.
 
 3. **5% Income Tax – A Sustainability Measure**:
-   * The zone imposes a 5% income tax, framed as a sustainability income tax.
-   * This minimal tax is strategically positioned to create a sustainable business environment and ensure a stable income source for the local economy.
+   * The zone imposes a 5% sustainability income tax, which is paid to the Government of Zanzibar.
+   * This attractive income tax rate is strategically positioned to create a sustainable business environment and ensure a stable income source for the local economy.
 
 4. **Transparent Approach**:
    * The free zone emphasizes transparency, stating clearly that "Everything you see is what you get."
