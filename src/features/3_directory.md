@@ -24,4 +24,4 @@ Here's a detailed look at this feature:
    * The Directory fosters a sense of community by encouraging interaction and collaboration among members.
    * Engage with like-minded companies, explore synergies, and contribute to a thriving, growing network of like-minded Free Zone companies.
 
-In sum, the Free Zone Directory is more than just a classified listing; it's a dynamic, interactive marketplace and community platform that encourages collaboration, trade, and growth within the digital free zone. It simplifies the process of finding and engaging with services and products, all while ensuring secure and integrated financial transactions.
+In sum, the Free Zone Directory is more than just a classified listing; it's a dynamic, interactive marketplace and community platform that encourages collaboration, trade, and growth within the digital free zone. It simplifies the process of finding and engaging with services and products, all while ensuring secure, integrated financial transactions.
