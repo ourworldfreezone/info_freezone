@@ -8,6 +8,11 @@ The LBC structure provides a platform for businesses aiming to thrive within the
 Here's an overview of the features and attributes of an LBC:
 
 - **Local Business Operations:** An LBC is designed to conduct business strictly within the digital free zone. All parties involved in transactions or collaborations with the LBC must be part of the free zone.
+
+[NB:  How is this possible or advisable?  What advantage does this kind of a company have over a GBC?  Is it that much cheaper to be attractive?]
+
+[I guess I don't see the point of this category. I see the differences between a PC, TC, Foundation and a Business Company.  But I don't see the reason for any LBC vice GBC]
+  
 - **Exclusive Free Zone Benefits:** LBCs can take advantage of the unique benefits offered by the free zone, such as tax efficiency, integrated business management tools, digital signatures, and more.
 - **Limited Geographical Reach:** Unlike GBCs, LBCs cannot extend their business operations outside of the free zone, making them ideal for entrepreneurs and businesses focused on serving the local free zone community.
 - **Compliance with Free Zone Regulations:** LBCs must comply with specific rules, regulations, and guidelines set forth by the digital free zone authorities. This ensures that the operations align with the free zone's objectives and standards.
