@@ -68,9 +68,8 @@
 | Private Chat / Video Conference                   |       |   +   |   +   |   +   |   +   |
 |                                                   |       |       |       |       |       |
 | **Dispute Resolution**                            |       |       |       |       |       |
-| 3 Level Dispute Resolution                        |   V   |   V   |   V   |   V   |   V   |
-| Speedy Track (Resolve Disputes <1 Week)           |   V   |   V   |   V   |   V   |   V   |
-| Fall Back to International Court                  |   V   |   V   |   V   |   V   |   V   |
+| Reliable, Phased Dispute Resolution System        |   V   |   V   |   V   |   V   |   V   |
+| Speedy, Cost Effective Mechanism                  |   V   |   V   |   V   |   V   |   V   |
 
 <br>
 
