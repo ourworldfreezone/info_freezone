@@ -23,10 +23,11 @@
   - [Local Business Company](products/lbc.md)
   - [Foundation](products/foundation.md) 
 - [Choose](products/choose.md)
-- [Reserve Now](sales/buy.md)
-- [Follow](contribute/follow.md)
-  - [Contribute](contribute/contribute.md)
 - [Appendix](extra/extra.md)
-  - [About Us](digitaltwin/who_are_we.md)
   - [Technical Architecture](digitaltwin/how_does_it_work.md)
   
+
+<!-- - [Reserve Now](sales/buy.md) -->
+<!-- - [Follow](contribute/follow.md)
+  - [Contribute](contribute/contribute.md) -->
+  <!-- - [About Us](digitaltwin/who_are_we.md) -->
