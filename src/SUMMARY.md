@@ -27,7 +27,7 @@
   - [Technical Architecture](info_freezone/digitaltwin/how_does_it_work.md)
   
 
-<!-- - [Reserve Now](sales/buy.md) -->
-<!-- - [Follow](contribute/follow.md)
-  - [Contribute](contribute/contribute.md) -->
-  <!-- - [About Us](digitaltwin/who_are_we.md) -->
+<!-- - [Reserve Now](info_freezone/sales/buy.md) -->
+<!-- - [Follow](info_freezone/contribute/follow.md)
+  - [Contribute](info_freezone/contribute/contribute.md) -->
+  <!-- - [About Us](info_freezone/digitaltwin/who_are_we.md) -->
