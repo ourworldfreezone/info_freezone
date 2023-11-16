@@ -24,7 +24,7 @@
   - [Foundation](info_freezone/products/foundation.md) 
 - [Choose](info_freezone/products/choose.md)
 - [Appendix](info_freezone/extra/extra.md)
-  - [Technical Architecture](info_freezone/digitaltwin/how_does_it_work.md)
+  - [Technical Architecture](earth_regenerator/digitaltwin/how_does_it_work.md)
   
 
 <!-- - [Reserve Now](info_freezone/sales/buy.md) -->
